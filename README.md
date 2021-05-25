@@ -1,3 +1,4 @@
 # Demo
 
-How to learn about GitHub
+How to learn about GitHub. 
+some more info
